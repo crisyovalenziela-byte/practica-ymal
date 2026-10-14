@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Imprimir mensaje
-        run: echo "¡Hola Mundo desde GitHub Actions!"
+        run: echo "¡Hola profe desde GitHub Actions!"
